@@ -9,7 +9,7 @@ This is a **demo portfolio** website created to showcase the structure and desig
 ## 📸 Screenshots
 
 ### 🏠 Home Section
-![Home Page]([./assets/Screenshot-2025-07-07-125601.png](https://github.com/Rajdeepsingh49/Portfolio-demo/blob/main/assets/Screenshot%202025-07-07%20125601.png?raw=true))
+![Home Page](https://github.com/Rajdeepsingh49/Portfolio-demo/blob/main/assets/Screenshot%202025-07-07%20125601.png?raw=true)
 
 ### 💡 Projects Section
 ![Projects Section](./assets/Screenshot-2025-07-07-125626.png)
